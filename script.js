@@ -1,19 +1,3 @@
-// Q & A 06
-// function smallerOfThree(a, b, c) {
-//     if (a < b && a < c) {
-//         return a;
-//     }
-//     else if (b < a && b < c) {
-//         return b;
-//     }
-//     else if (c < a && c < b) {
-//         return c;
-//     }
-//     return a;
-
-// };
-
-// smallerOfThree(3, 1, 3);
 
 // On & Off button
 
